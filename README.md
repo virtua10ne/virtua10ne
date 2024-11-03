@@ -33,6 +33,7 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
 - [ ] [Яндекс Практикум: Инженер облачных сервисов](https://yandex.cloud/ru/training/ycloud)
 
 Более детально посмотреть мои навыки можно кликнув сюда
+
 [![https://roadmap.sh/u/crazydiamond](https://roadmap.sh/card/wide/64665133410780a6d9b83b17?variant=dark)](https://roadmap.sh/u/crazydiamond)
 
 ### Лангуагес
