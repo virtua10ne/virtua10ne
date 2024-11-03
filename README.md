@@ -12,10 +12,10 @@
 - [x] Большой опыт автоматизации на Bash и Powershell.
 - [x] Большой опыт работы с Oracle и MS SQL: SQL/DML/DDL, Oracle PL/SQL. Писал хранимки, делал вьюшки, сложные запросы, включая оконные функции.
 - [x] Большой опыт работы с API (Postman, Powershell).
-- [x] Большой опыт поддержки взаимодействия различных систем: дебага прохождения и корректности данных.
+- [x] Большой опыт поддержки взаимодействия различных систем, дебага прохождения и корректности данных.
 - [x] Большой опыт работы с Low-Code системами: оцифровка процессов компании в BPMS, построение ITSM. 
 ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
-- [x] VCS: TortoiseSVN, Git.
+- [x] VCS: TortoiseSVN, Git, GitHub.
 
 ## Учусь
 - [x] [Rebrain: Linux Basic](https://rebrainme.com/linux-basics)
