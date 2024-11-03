@@ -24,7 +24,7 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
   - Самостоятельно перенёс бизнес-процессы компании с Comindware BPMS на Yandex Tracker. 
   - Самостоятельно мигрировал ITSM (inc/req/chg/prb management & knowledge managemt) с SimpleOne на YandexTracker. Доменная авторизация, разграничение привилегий, подача заявки по QR коду, письму, и форме на сайте, база знаний, аналитические дашборды, автоматизация по событиям.
 - [x] [Яндекс Практикум: Git Basics](https://practicum.yandex.ru/git-basics) **< WORKING ON**
-  - Научился работать с Git и GitHub, GitHub Pages, GitHub Actions. 
+  - Научился работать с Git и GitHub ~~GitHub Pages, GitHub Actions~~ 
 До этого умел только в TortoiseSVN.
 - [ ] [Яндекс Практикум: Основы работы с Yandex Cloud](https://yandex.cloud/ru/training/base)
 - [ ] [Яндекс Практикум: Контейнеризация с Docker](https://yandex.cloud/ru/training/docker)
@@ -32,29 +32,15 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
 - [ ] [Rebrain: Grafana](https://rebrainme.com/grafana)
 - [ ] [Яндекс Практикум: Инженер облачных сервисов](https://yandex.cloud/ru/training/ycloud)
 
-## Люблю
-- Детально разобраться в процессе, описать его в базе знаний, и по возможности автоматизировать.
-- Скриптовые языки и консоль, автоматизацию.
-- Что бы всё, что может сломаться, мониторилось.
-
 Более детально посмотреть мои навыки можно кликнув на этот баннер.
-
-![https://roadmap.sh/u/crazydiamond](https://roadmap.sh/card/wide/64665133410780a6d9b83b17?variant=dark)
-
+[![https://roadmap.sh/u/crazydiamond](https://roadmap.sh/card/wide/64665133410780a6d9b83b17?variant=dark)](https://roadmap.sh/u/crazydiamond)
 
 ### Лангуагес
 - Russian: Native
 - English B1
-- Srpski A1
+- Srpski A1 (в процессе)
 
 ### :email: Уже хотите предложить мне работу?
 - grigoriy.romanenkov@gmail.com
 - [Telegram](https://t.me/crazydiamond_ru)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=virtua10ne&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/virtua10ne)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=virtua10ne)  
 
