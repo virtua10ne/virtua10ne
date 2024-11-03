@@ -32,11 +32,11 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
 - [ ] [Rebrain: Grafana](https://rebrainme.com/grafana)
 - [ ] [Яндекс Практикум: Инженер облачных сервисов](https://yandex.cloud/ru/training/ycloud)
 
-Более детально посмотреть мои навыки можно кликнув на этот баннер.
+Более детально посмотреть мои навыки можно кликнув сюда
 [![https://roadmap.sh/u/crazydiamond](https://roadmap.sh/card/wide/64665133410780a6d9b83b17?variant=dark)](https://roadmap.sh/u/crazydiamond)
 
 ### Лангуагес
-- Russian: Native
+- Russian Native
 - English B1
 - Srpski A1 (в процессе)
 
