@@ -19,7 +19,7 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
 
 ## Учусь
 - [x] [Rebrain: Linux Basic](https://rebrainme.com/linux-basics)
-  - В дополнении к имеющимся bash-скриптинг навыкам, получил широкую базовую практику по Linux.
+  - В дополнении к имеющимся навыкам написания скриптов на bash, получил широкую базовую практику по Linux.
 - [x] [Яндекс Практикум: Tracker](https://yandex.cloud/ru/training/tracker) (low-code BPM/task tracking)
   - Самостоятельно перенёс бизнес-процессы компании с Comindware BPMS на Yandex Tracker. 
   - Самостоятельно мигрировал ITSM (inc/req/chg/prb management & knowledge managemt) с SimpleOne на YandexTracker. Доменная авторизация, разграничение привилегий, подача заявки по QR коду, письму, и форме на сайте, база знаний, аналитические дашборды, автоматизация по событиям.
