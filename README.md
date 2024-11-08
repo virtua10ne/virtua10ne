@@ -25,7 +25,8 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
   - Самостоятельно мигрировал ITSM (inc/req/chg/prb management & knowledge managemt) с SimpleOne на YandexTracker. Доменная авторизация, разграничение привилегий, подача заявки по QR коду, письму, и форме на сайте, база знаний, аналитические дашборды, автоматизация по событиям.
 - [x] [Яндекс Практикум: Git Basics](https://practicum.yandex.ru/git-basics)  
   - Научился работать с Git и GitHub, до этого умел только в TortoiseSVN.
-- [ ] [Яндекс Практикум: Основы работы с Yandex Cloud](https://yandex.cloud/ru/training/base) <span style="color:gree">◀️👨‍🎓</span>
+  - Сделал эту страничку, и репозиторий [wannabe_devops](https://github.com/virtua10ne/wannabe_devops), где детализирую информацию об обучении.
+- [ ] [Яндекс Практикум: Основы работы с Yandex Cloud](https://yandex.cloud/ru/training/base) ◀️👨‍🎓
 - [ ] [Яндекс Практикум: Контейнеризация с Docker](https://yandex.cloud/ru/training/docker)
 - [ ] [Rebrain: Prometheus](https://rebrainme.com/prometheus)
 - [ ] [Rebrain: Grafana](https://rebrainme.com/grafana)
