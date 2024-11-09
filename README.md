@@ -34,7 +34,7 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
 
 Более детально посмотреть мои навыки можно кликнув сюда
 
-[![https://roadmap.sh/u/crazydiamond](https://roadmap.sh/card/wide/64665133410780a6d9b83b17?variant=dark)](https://roadmap.sh/u/crazydiamond)
+[![https://roadmap.sh/u/crazydiamond](https://roadmap.sh/card/wide/64665133410780a6d9b83b17?variant=dark&roadmaps=linux%2Csql%2Cgit-github%2Cdocker)](https://roadmap.sh/u/crazydiamond)
 
 ### Лангуагес
 - Russian Native
