@@ -26,10 +26,10 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
 - [x] [Яндекс Практикум: Git Basics](https://practicum.yandex.ru/git-basics)  
   - Научился работать с Git и GitHub, до этого умел только в TortoiseSVN.
   - Сделал эту страничку, и репозиторий [wannabe_devops](https://github.com/virtua10ne/wannabe_devops), где детализирую информацию об обучении.
-- [ ] [Яндекс Практикум: Основы работы с Yandex Cloud](https://yandex.cloud/ru/training/base) ◀️👨‍🎓
-- [ ] [Яндекс Практикум: Контейнеризация с Docker](https://yandex.cloud/ru/training/docker)
+- [ ] [Яндекс Практикум: Контейнеризация с Docker](https://yandex.cloud/ru/training/docker)◀️👨‍🎓
 - [ ] [Rebrain: Prometheus](https://rebrainme.com/prometheus)
 - [ ] [Rebrain: Grafana](https://rebrainme.com/grafana)
+- [ ] [Яндекс Практикум: Основы работы с Yandex Cloud](https://yandex.cloud/ru/training/base) 
 - [ ] [Яндекс Практикум: Инженер облачных сервисов](https://yandex.cloud/ru/training/ycloud)
 
 Более детально посмотреть мои навыки можно кликнув сюда
