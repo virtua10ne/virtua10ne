@@ -10,10 +10,10 @@
 - [x] Большой опыт автоматизации на Bash и Powershell.
 - [x] Большой опыт работы с Oracle и MS SQL: SQL/DML/DDL, Oracle PL/SQL. Писал хранимки, делал вьюшки, сложные запросы, включая оконные функции.
 - [x] Большой опыт работы с API (Postman, Powershell).
-- [x] Большой опыт поддержки взаимодействия различных систем, дебага прохождения и корректности данных.
+- [x] Большой опыт траблшутинга.
 - [x] Большой опыт работы с Low-Code системами: оцифровка процессов компании в BPMS, построение ITSM. 
 ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
-- [x] VCS: TortoiseSVN, Git, GitHub.
+- [x] VCS: SVN, Git, GitHub.
 
 ## Учусь
 - [x] [Rebrain: Linux Basic](https://rebrainme.com/linux-basics)
@@ -37,7 +37,7 @@ ServiceNOW, SimpleOne, Comindware BPMS, YandexTracker, Obsidian.
 ### Лангуагес
 - Russian Native
 - English B1
-- Srpski A1 (в процессе)
+- Srpski A1
 
 ### :email: Уже хотите предложить мне работу?
 - grigoriy.romanenkov@gmail.com
